@@ -11,6 +11,7 @@ body {
   margin: 0;
   padding: 0;
   width: 120rem;
+  
 }
 .body--webpdf .template__fixed-element,
 .body--pdf .template__fixed-element {
@@ -256,6 +257,12 @@ a {
   word-wrap: break-word;
   word-break: break-all;
   word-break: break-word;
+}
+.social__link{
+  font-size:0.8em;
+  word-break:break-all;
+  margin-top:0.8em;
+  margin-bottom:0.8em;
 }
 .sidebar__skill {
   margin-bottom: 2.2rem;
