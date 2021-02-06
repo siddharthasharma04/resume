@@ -187,6 +187,11 @@ a {
 .sidebar__subsection-text {
     font-size: 1.5rem;
 }
+.sidebar__subsection-text.email {
+    word-break: break-all;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
 
 .sidebar__subtitle {
     text-transform: uppercase;

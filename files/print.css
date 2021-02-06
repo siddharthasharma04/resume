@@ -1,5 +1,13 @@
 html {
-    font-size: 10.6pt;
+    font-size: 11px;
+}
+
+.sidebar{
+    padding-left: 6rem;
+}
+
+.main{
+    padding-right: 6rem;
 }
 
 .print-padding-top-7 {
@@ -7,5 +15,5 @@ html {
 }
 
 .print-padding-top-2 {
-    padding-top: 30px;
+    padding-top: 100px;
 }
